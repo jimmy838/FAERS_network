@@ -1,0 +1,11 @@
+# Local inputs and generated results
+data/input/*.rds
+results/network/*
+demo/results/*
+
+# Local configuration and temporary files
+.Rhistory
+.RData
+.Rproj.user/
+*.log
+*.tmp
