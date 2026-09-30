@@ -1,6 +1,6 @@
 # FAERS Network Analysis Code
 
-This repository contains the numerical code used to estimate symptom co-occurrence and Bayesian networks for FAERS reports in the manuscript "Co-occurrence Patterns of Symptom and Functional Burden Associated with Tofacitinib and Upa".. It includes no network plotting code. Interactive network display is provided separately through the R Shiny application.
+This repository contains the numerical code used to estimate symptom co-occurrence and Bayesian networks for FAERS reports in the manuscript "Co-occurrence Patterns of Symptom and Functional Burden Associated with Tofacitinib and Upa". It includes no network plotting code. Interactive network display is provided separately through the R Shiny application.
 
 ## Analyses
 
